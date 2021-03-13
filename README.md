@@ -11,4 +11,4 @@ I'm a web developer, I specialize in front end but I learn a little every day. O
 
 
 
-:floppy_disk: Html5  :floppy_disk: Css3  :floppy_disk: Bootstrap4  :mag: Javascript  :mag: Python  :mag: Dart & Flutter
+:floppy_disk: Html5  :floppy_disk: Css3  :floppy_disk: Bootstrap4 :mag: ReactJS  :mag: Javascript  :mag: Python  :mag: Dart & Flutter
