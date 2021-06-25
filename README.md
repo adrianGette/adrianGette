@@ -11,5 +11,6 @@ Originally from Buenos Aires, Argentina.
 ° HTML5  
 ° CSS3  
 ° Bootstrap 
+
 ° ReactJS  
 ° Javascript 
