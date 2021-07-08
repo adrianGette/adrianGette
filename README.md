@@ -4,9 +4,9 @@
 
 <br>
 
-  👨‍💻 All of my projects are available at [https://portfolio-adrian-gette.netlify.app/](https://portfolio-adrian-gette.netlify.app/)
+  👨‍💻 All of my projects are available at:  [https://portfolio-adrian-gette.netlify.app/](https://portfolio-adrian-gette.netlify.app/)
 
-  📫 How to reach me **adrian.gette01@gmail.com** 
+  📫 Contact me:  **adrian.gette01@gmail.com** 
   
 <br>
 
