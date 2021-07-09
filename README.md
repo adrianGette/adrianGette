@@ -1,4 +1,4 @@
-<h3 align="center">A front end developer from Buenos Aires, Argentina.</h3>
+<h3 align="center">A Front End Developer from Buenos Aires, Argentina.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=adriangette&label=Profile%20views&color=0e75b6&style=flat" alt="adriangette" /> </p>
 
