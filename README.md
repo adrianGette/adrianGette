@@ -12,7 +12,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center"">
-<a href="https://twitter.com/adrian_gette" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adrian_gette" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/adrián-gette-a345aa14b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adrián-gette-a345aa14b" height="30" width="40" /></a>
 </p>
 
@@ -22,6 +22,3 @@
 
 <br>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adriangette&show_icons=true&locale=en" alt="adriangette" /></p>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adriangette&" alt="adriangette" /></p>
