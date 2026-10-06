@@ -4,7 +4,7 @@
 
 <br>
 
-  All of my projects are available at:  [https://portfolio-adrian-gette.netlify.app/](https://portfolio-adrian-gette.netlify.app/)
+  All of my projects are available at:  [https://adrian-gette-portfolio.netlify.app/](https://adrian-gette-portfolio.netlify.app/)
 
   Contact me:
   <p>
