@@ -2,9 +2,9 @@
 
 [Leer en español](https://github.com/adrianGette) · **English**
 
-**Fullstack Developer · Front-end focus (React)**, Buenos Aires, Argentina 🇦🇷
+**Fullstack Developer** · Buenos Aires, Argentina 🇦🇷
 
-I build complete web products, from interface to database, that solve real problems. My favorite part is the front-end: interfaces that feel simple to use and stay simple to maintain.
+I build complete web products, from interface design to the API and the database. What sets me apart is attention to detail: polished interfaces that are simple to use and refined down to the last pixel, on top of a solid, well-tested back-end.
 
 🌎 **Open to 100% remote roles.**
 
